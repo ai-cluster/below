@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://ai-cluster.ru/below/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://ai-cluster.ru/below/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ai-cluster.ru/below/"
+                />
+  </url>
+  
+  <url>
     <loc>https://ai-cluster.ru/below/categories/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
     <xhtml:link
@@ -164,21 +179,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://ai-cluster.ru/below/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://ai-cluster.ru/below/</loc>
-    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://ai-cluster.ru/below/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ai-cluster.ru/below/"
                 />
   </url>
   
