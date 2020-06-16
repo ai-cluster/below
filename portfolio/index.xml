@@ -2,66 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Below Technologies</title>
-    <link>https://ai-cluster.ru/below/portfolio/</link>
+    <link>https://ai-bridge.ch/portfolio/</link>
     <description>Recent content in Portfolio on Below Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ai-cluster.ru/below/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ai-bridge.ch/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cloud Service</title>
-      <link>https://ai-cluster.ru/below/portfolio/cloud/</link>
+      <title>Mobile advertising platform</title>
+      <link>https://ai-bridge.ch/portfolio/mts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-cluster.ru/below/portfolio/cloud/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://ai-bridge.ch/portfolio/mts/</guid>
+      <description>The client Mobile TeleSystems (MTS) is the leading telecommunications group in Russia, Central and Eastern Europe.</description>
     </item>
     
     <item>
-      <title>Database Management</title>
-      <link>https://ai-cluster.ru/below/portfolio/database/</link>
+      <title>Parking spaces control and payment processing system</title>
+      <link>https://ai-bridge.ch/portfolio/parking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-cluster.ru/below/portfolio/database/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://ai-bridge.ch/portfolio/parking/</guid>
+      <description>The client The Government of Moscow, the highest executive body of state authority of Moscow.</description>
     </item>
     
     <item>
-      <title>Logo Design</title>
-      <link>https://ai-cluster.ru/below/portfolio/logo/</link>
+      <title>USSD app for management of bank accounts and credit cards without the Internet</title>
+      <link>https://ai-bridge.ch/portfolio/ussd_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-cluster.ru/below/portfolio/logo/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Photoshop Design</title>
-      <link>https://ai-cluster.ru/below/portfolio/photoshop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ai-cluster.ru/below/portfolio/photoshop/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>https://ai-cluster.ru/below/portfolio/web-development/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ai-cluster.ru/below/portfolio/web-development/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Web Hosting</title>
-      <link>https://ai-cluster.ru/below/portfolio/web-host/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ai-cluster.ru/below/portfolio/web-host/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://ai-bridge.ch/portfolio/ussd_app/</guid>
+      <description>The client Alfa Bank, the corporate treasury of the Alfa Group, is the largest private commercial bank in Russia.</description>
     </item>
     
   </channel>
