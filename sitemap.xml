@@ -166,7 +166,15 @@
   </url>
   
   <url>
+    <loc>https://ai-bridge.ch/portfolio/panasonic/</loc>
+  </url>
+  
+  <url>
     <loc>https://ai-bridge.ch/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ai-bridge.ch/portfolio/money_transfer/</loc>
   </url>
   
   <url>
@@ -182,6 +190,10 @@
   </url>
   
   <url>
+    <loc>https://ai-bridge.ch/portfolio/mobile_money/</loc>
+  </url>
+  
+  <url>
     <loc>https://ai-bridge.ch/portfolio/parking/</loc>
   </url>
   
@@ -194,7 +206,15 @@
   </url>
   
   <url>
+    <loc>https://ai-bridge.ch/portfolio/gas_station/</loc>
+  </url>
+  
+  <url>
     <loc>https://ai-bridge.ch/portfolio/ussd_app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ai-bridge.ch/portfolio/adv_platform/</loc>
   </url>
   
 </urlset>
