@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio on Below Technologies</title>
-    <link>https://ai-bridge.ch/portfolio/</link>
+    <link>http://below-technologies.ch/portfolio/</link>
     <description>Recent content in Portfolio on Below Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ai-bridge.ch/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://below-technologies.ch/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Instant Money Transfer from a Mobile Account or a Bank Card</title>
-      <link>https://ai-bridge.ch/portfolio/money_transfer/</link>
+      <link>http://below-technologies.ch/portfolio/money_transfer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/money_transfer/</guid>
+      <guid>http://below-technologies.ch/portfolio/money_transfer/</guid>
       <description>The client: Beeline is a Russian telecommunications brand by OJSC VimpelCom.</description>
     </item>
     
     <item>
       <title>High-performance Mobile Advertising Platform</title>
-      <link>https://ai-bridge.ch/portfolio/mts/</link>
+      <link>http://below-technologies.ch/portfolio/mts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/mts/</guid>
+      <guid>http://below-technologies.ch/portfolio/mts/</guid>
       <description>The client: Mobile TeleSystems (MTS) is the leading telecommunications group in Russia and Central and Eastern Europe.</description>
     </item>
     
     <item>
       <title>Comprehensive Management Solution for Panasonic Plasma Displays</title>
-      <link>https://ai-bridge.ch/portfolio/panasonic/</link>
+      <link>http://below-technologies.ch/portfolio/panasonic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/panasonic/</guid>
+      <guid>http://below-technologies.ch/portfolio/panasonic/</guid>
       <description>The client: Panasonic – one of the world’s largest manufacturers of household appliances and electronic goods.</description>
     </item>
     
     <item>
       <title>High-performance Mobile System for Money Transfers</title>
-      <link>https://ai-bridge.ch/portfolio/mobile_money/</link>
+      <link>http://below-technologies.ch/portfolio/mobile_money/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/mobile_money/</guid>
+      <guid>http://below-technologies.ch/portfolio/mobile_money/</guid>
       <description>The client: One of the largest aggregators of Nigerian mobile payments and transfers was connected to the USSD channel.</description>
     </item>
     
     <item>
       <title>Parking Spaces Control and Payment Processing System</title>
-      <link>https://ai-bridge.ch/portfolio/parking/</link>
+      <link>http://below-technologies.ch/portfolio/parking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/parking/</guid>
+      <guid>http://below-technologies.ch/portfolio/parking/</guid>
       <description>The client: The Government of Moscow, the highest executive body of state authority of Moscow.</description>
     </item>
     
     <item>
       <title>Usage of Mobile Phones for Refueling and Controlling Fuel Consumption</title>
-      <link>https://ai-bridge.ch/portfolio/gas_station/</link>
+      <link>http://below-technologies.ch/portfolio/gas_station/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/gas_station/</guid>
+      <guid>http://below-technologies.ch/portfolio/gas_station/</guid>
       <description>The client: Regional gas station network, which operates in the Siberian Federal District, Russia.</description>
     </item>
     
     <item>
       <title>USSD Banking Without Internet</title>
-      <link>https://ai-bridge.ch/portfolio/ussd_app/</link>
+      <link>http://below-technologies.ch/portfolio/ussd_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/ussd_app/</guid>
+      <guid>http://below-technologies.ch/portfolio/ussd_app/</guid>
       <description>The client: Alfa Bank, the corporate treasury of the Alfa Group, is the largest private commercial bank in Russia.</description>
     </item>
     
     <item>
       <title>Yellow Pages Philippines (DPC)</title>
-      <link>https://ai-bridge.ch/portfolio/adv_platform/</link>
+      <link>http://below-technologies.ch/portfolio/adv_platform/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/adv_platform/</guid>
+      <guid>http://below-technologies.ch/portfolio/adv_platform/</guid>
       <description>The client: Since 1989, DPC has emerged as the dominant market leader in the directories advertising industry in the Philippines.</description>
     </item>
     
     <item>
       <title>Placeholder for Your Project</title>
-      <link>https://ai-bridge.ch/portfolio/your_project/</link>
+      <link>http://below-technologies.ch/portfolio/your_project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ai-bridge.ch/portfolio/your_project/</guid>
+      <guid>http://below-technologies.ch/portfolio/your_project/</guid>
       <description>Here, we will be glad and proud to present your successfully implemented project by means of the newest technologies.</description>
     </item>
     
